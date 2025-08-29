@@ -68,6 +68,15 @@ Aspiring ***Software Development Engineer*** | B.Tech CSE **@ IIIT Vadodara**
 
 ---
 
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="Assets/pullShark.png" alt="Pull Shark" width="150"/>
+  <img src="Assets/quickDraw.png" alt="Quick Draw" width="150"/>
+</p>
+
+---
+
 ## 📫 Let's Connect!  
 📧 [Email](mailto:thelakshya31@gmail.com)  
 🔗 [Portfolio](https://portfolio-taupe-seven-84.vercel.app/)  
