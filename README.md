@@ -69,9 +69,9 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="Assets/pullShark.png" width="140"/>
-  <img src="Assets/quickDraw.png" width="140"/>
+<p align="left">
+  <img src="Assets/pullShark.png" height="40"/>
+  <img src="Assets/quickDraw.png" height="40"/>
 </p>
 ---
 
