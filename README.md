@@ -69,8 +69,10 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Lakshya-jangid-08&theme=react&margin-w=6)
-
+<p align="center">
+  <img src="Assets/pullShark.png" width="140"/>
+  <img src="Assets/quickDraw.png" width="140"/>
+</p>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Lakshya-jangid-08&icon=2&color=0)](https://visitcount.itsvg.in)
