@@ -1,86 +1,78 @@
-# Hi 👋, I'm Lakshya Jangid  
-Aspiring ***Software Development Engineer*** | B.Tech CSE **@ IIIT Vadodara**
+# Lakshya Jangid
+# 💫 About Me
 
-## 🚀 About Me  
-🎓 Pursuing B.Tech in Computer Science at IIIT Vadodara (2023–2027)  
-💻 Passionate about Full-Stack Development.  
-🌱 Currently exploring **GoLang** & **Machine Learning**  
-⚡ Love building scalable web apps & solving real-world problems through code  
+- Software Developer  
+- MERN Stack Developer  
+- Passionate about building real-world web applications  
+- Currently pursuing my degree  
+- Continuously learning & improving  
+- Exploring Python, AI & ML algorithms  
+- B.Tech Computer Science (2023–2027), IIIT Vadodara
 
-## 🛠️ Tech Stacks  
+---
 
-### 💻 Languages & Fundamentals  
-- **C++ | Python | GoLang | JavaScript | HTML5**  
-- CS Fundamentals: DBMS, OOPS, OS, Computer Networks  
+## 🌐 Socials
 
-
-### 💻 Languages  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=cpp,python,go,js,html,css" />  
-</p>  
-
-### 🌐 Frontend  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />  
-</p>  
-
-### 🗃 Backend & Databases  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />  
-</p>  
-
-### 📘 CS Fundamentals  
 <p align="left">
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOPS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operating%20System-FF6C37?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-2C8EBB?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-
-
-### ⚙️ Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vercel,vscode" />  
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
+  <a href="https://www.instagram.com/___user__1__2__3__4____/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lakshyajangid/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:thelakshya31@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 🏗️ Projects  
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js" />
+</p>
 
-🔹 [**Jigyasa Online Survey Platform**](https://github.com/Lakshya-jangid-08/Jigyasa_Online-survey-mangement) – Full-stack survey management system with analytics & visualization  
-🔹 [**PyroShield Firestation Dashboard**](https://github.com/Lakshya-jangid-08/PyroShield) – Real-time incident & inventory monitoring platform   
-🔹 [**Chat Web App**](https://github.com/Lakshya-jangid-08/CHAT.WEB.APP) – Group chat with Socket.io, user authentication & persistent storage  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,threejs" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,redis,socketio" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
 
 ---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Lakshya-jangid-08&theme=dark&hide_border=false&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Lakshya-jangid-08&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-jangid-08&theme=dark&hide_border=false&layout=compact)
+
+---
 ## 🏆 Achievements  
-- 🥇 1st place – CodeChef Weekend Dev Challenge 08 (React Projects)  
-- 💡 Solved **300+ DSA problems** on LeetCode  
-- ⭐ 2-Star Coder on CodeChef  
+
+- **1st Place** – CodeChef Weekend Dev Challenge 08 (React Projects)  
+- Solved **450+ DSA problems** on LeetCode  
+- **2-Star Coder** on CodeChef  
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Lakshya-jangid-08&theme=react&margin-w=6)
 
 ---
 
-## 📊 GitHub Stats  
-![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya-jangid-08&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-jangid-08&layout=compact&theme=radical)  
+[![](https://visitcount.itsvg.in/api?id=Lakshya-jangid-08&icon=2&color=0)](https://visitcount.itsvg.in)
 
----
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="Assets/pullShark.png" alt="Pull Shark" width="150"/>
-  <img src="Assets/quickDraw.png" alt="Quick Draw" width="150"/>
-</p>
-
----
-
-## 📫 Let's Connect!  
-📧 [Email](mailto:thelakshya31@gmail.com)  
-🔗 [Portfolio](https://portfolio-taupe-seven-84.vercel.app/)  
-💼 [LinkedIn](https://in.linkedin.com/in/lakshya-jangid-0562502a2)  
-💻 [LeetCode](https://leetcode.com/u/Mr_Lakshya/) | [CodeChef](https://www.codechef.com/users/the_ljangid) | [GitHub](https://github.com/Lakshya-jangid-08)  
-
----
+<!-- Clean • Professional • Recruiter Friendly -->
