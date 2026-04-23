@@ -60,11 +60,30 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-jangid-08&theme=dark&hide_border=false&layout=compact)
 
 ---
+
+### ⚡ Coding Activity Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshya-jangid-08&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshya-jangid-08&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshya-jangid-08&theme=github_dark" />
+</p>
+---
+
+## 🧠 LeetCode Dashboard
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Lakshya_Jangid_2005?theme=dark&font=Fenix&ext=heatmap" />
+</p>
+
+---
 ## 🏆 Achievements  
 
 - **1st Place** – CodeChef Weekend Dev Challenge 08 (React Projects)  
-- Solved **450+ DSA problems** on LeetCode  
-- **2-Star Coder** on CodeChef  
+- Solved **600+ DSA problems** on LeetCode  
+- **3-Star Coder** on CodeChef  
 
 
 ## 🏆 GitHub Trophies
